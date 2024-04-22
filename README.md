@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ronil Cajan</h1>
-<h3 align="center">Hi there! I'm a web developer proficient in Laravel, Inertiajs and Vue.js.</h3>
+<h3 align="center">I'm a web developer proficient in Laravel, Inertiajs and Vue.js.</h3>
 
 <p align="left"> <a href="https://twitter.com/roncajan" target="blank"><img src="https://img.shields.io/twitter/follow/roncajan?logo=twitter&style=for-the-badge" alt="roncajan" /></a> </p>
 
